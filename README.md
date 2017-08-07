@@ -1,2 +1,5 @@
 # Data-Mining-and-Predictive-Analytics
-I'm currently going through the Data Mining and Predictive Analytics (2nd ed.) book. Given that some of the R code provided in the example portion is buggy, and some people may want to use Python, I'm going through and reimplementing the problems in Python. There may or may not be side notes regarding the chapter.
+
+![Data Mining and Predictive Analytics Cover 2nd. Edition](http://media.wiley.com/product_data/coverImage300/94/11181161/1118116194.jpg)
+
+This collection of Jupyter notebooks documents my learning as I progress through the Data Mining and Predictive Analytics book. These notebooks will be fairly comprehensive, but not exhaustive. The code in this repository solves R exercises in the book using Python. The exercises involve data preparation, statistical analysis, classification, clustering, association rules, and model optimization.
